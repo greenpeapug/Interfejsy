@@ -1,0 +1,2 @@
+# Interfejsy
+Pliki dotyczące interfejsów
